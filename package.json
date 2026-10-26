@@ -1,0 +1,8 @@
+{
+  "name": "ub-tail-3d-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "three": "0.128.0" },
+  "engines": { "node": ">=18" }
+}
